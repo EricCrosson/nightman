@@ -1,0 +1,8 @@
+- [ ] toggle dark-mode at sunset/sunrise
+- [ ] start application at boot
+
+* UX
+- [ ] daemonize
+- [ ] create application
+
+These may be mutually exclusive, model after amphetamine or spectacles
