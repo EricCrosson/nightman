@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dark-mode-listener": "^0.1.0",
+    "mac-open": "^0.1.3"
+  },
+  "name": "nightman",
+  "version": "1.0.0",
+  "description": "Configure dark-mode settings for MacOS Mojave",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EricCrosson/nightman.git"
+  },
+  "author": "Eric Crosson <eric.s.crosson@utexas.edu> (https://github.com/EricCrosson)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricCrosson/nightman/issues"
+  },
+  "homepage": "https://github.com/EricCrosson/nightman#readme"
+}
